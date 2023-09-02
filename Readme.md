@@ -31,6 +31,4 @@ Check out my repositories for project details! </b></h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salehahmedshafin&show_icons=true&locale=en&layout=compact" alt="salehahmedshafin" /></p>
 
 <h3 align="left">Repository Stat:</h3>
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=salehahmedshafin&show_icons=true&locale=en" alt="salehahmedshafin" /></p>
-
-<p> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=salehahmedshafin&" alt="salehahmedshafin" /></p>
+<p> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=salehahmedshafin&" alt="salehahmedshafin" /></p>
