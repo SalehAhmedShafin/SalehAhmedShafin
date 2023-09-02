@@ -1,5 +1,7 @@
-<h1 align="center">Hello 👋, I'm Saleh Ahmed Shafin</h1>
-<h3 align="center">A passionate about Machine Learning and Deep Learning</h3>
+<h1 align="center">Hello 👋, I'm Saleh Ahmed Shafin (Nickname is Shafin)</h1>
+<h3 align="center">I am from Dhaka, Bangladesh. I am a passionate undergraduate student with a never-ending interest in science and arts. Into learning new things about technology and research with a view to solving engineering problems. Currently studying Computer Science and Engineering as major at Ahsanullah University of Science and Technology. A passionate about Machine Learning and Deep Learning. 
+
+I am looking for ML/DL Engineer or AI Trainee Engineer positions and Intern/Part-time positions in Software Engineering industry. You can also knock me with mentoring and content creation opportunities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salehahmedshafin&label=Profile%20views&color=0e75b6&style=flat" alt="salehahmedshafin" /> </p>
 
