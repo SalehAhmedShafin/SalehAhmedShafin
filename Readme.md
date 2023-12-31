@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hello 👋, I'm Saleh Ahmed Shafin (Nickname is Shafin)</h1>
-<h3 align="left">I am from <b>Dhaka, Bangladesh</b>. I am a passionate undergraduate student with a never-ending interest in science and arts. Into learning new things about technology and research with a view to solving engineering problems. I am mostly interested in Artificial Intelligence, specially solving problems using Machine Learning and Deep Learning techniques. Currently studying <b>Computer Science and Engineering </b> as major at <b>Ahsanullah University of Science and Technology</b>. A passionate about Machine Learning and Deep Learning.</h3>
+<h3 align="left">I am from <b>Dhaka, Bangladesh</b>. I am a passionate undergraduate student with a never-ending interest in science and arts. Into learning new things about technology and research with a view to solving engineering problems. I am mostly interested in Artificial Intelligence, specially solving problems using Machine Learning and Deep Learning techniques. A passionate about Machine Learning and Deep Learning.</h3>
 
 <h3> <b> Check out my repositories for project details! </b></h3>
 
