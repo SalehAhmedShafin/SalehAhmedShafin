@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hello 👋, I'm Saleh Ahmed Shafin (Nickname: Shafin)</h1>
-<h3 align="left">
+<p align="left">
 I am from <b>Dhaka, Bangladesh</b>. Currently working as an <b>AI Engineer at Codemen Solutions Limited</b>, where I focus on LLMs, AI Agents, RAG-based document search, and workflow automation.  
 I hold a <b>B.Sc. in Computer Science and Engineering</b> from Ahsanullah University of Science and Technology.  
 
@@ -14,7 +14,7 @@ I enjoy participating in data science and machine learning competitions (Kaggle,
 
 <b>Core Skills:</b> LLM, LangChain, PyTorch, TensorFlow, Keras, Scikit-learn, NLP, Computer Vision, FastAPI, Django, Docker, VectorDB, Neo4j, Firebase, and more.  
 Beyond coding, I take pride in problem-solving, adaptability, continuous learning, and effective communication.  
-</h3>
+</p>
 
 
 <h3> <b> Check out my repositories for project details! </b></h3>
