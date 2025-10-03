@@ -2,8 +2,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salehahmedshafin&label=Profile%20views&color=0e75b6&style=flat" alt="salehahmedshafin" /> </p>
 
 
-<h1 align="center">Hello 👋, I'm Saleh Ahmed Shafin (Nickname is Shafin)</h1>
-<h3 align="left">I am from <b>Dhaka, Bangladesh</b>. I am a passionate undergraduate student with a never-ending interest in science and arts. Into learning new things about technology and research with a view to solving engineering problems. I am mostly interested in Artificial Intelligence, specially solving problems using Machine Learning and Deep Learning techniques. A passionate about Machine Learning and Deep Learning.</h3>
+<h1 align="center">Hello 👋, I'm Saleh Ahmed Shafin (Nickname: Shafin)</h1>
+<h3 align="left">
+I am from <b>Dhaka, Bangladesh</b>. Currently working as an <b>AI Engineer at Codemen Solutions Limited</b>, where I focus on LLMs, AI Agents, RAG-based document search, and workflow automation.  
+I hold a <b>B.Sc. in Computer Science and Engineering</b> from Ahsanullah University of Science and Technology.  
+
+I am passionate about <b>Artificial Intelligence, Machine Learning, and Deep Learning</b>, with hands-on experience in developing intelligent systems, research projects, and real-world applications.  
+My research interests include <b>Explainable AI (XAI), NLP, and Computer Vision</b>, and I have published work on explainable lung disease classification using deep learning.  
+
+I enjoy participating in data science and machine learning competitions (Kaggle, BUET DL Sprint, Robi Datathon, DU DataVerse, Bengali.AI) and have achieved notable positions.  
+
+<b>Core Skills:</b> LLM, LangChain, PyTorch, TensorFlow, Keras, Scikit-learn, NLP, Computer Vision, FastAPI, Django, Docker, VectorDB, Neo4j, Firebase, and more.  
+Beyond coding, I take pride in problem-solving, adaptability, continuous learning, and effective communication.  
+</h3>
+
 
 <h3> <b> Check out my repositories for project details! </b></h3>
 
