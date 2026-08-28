@@ -28,7 +28,7 @@ from chest X-ray images.
   tools in production
 - 🧠 Research interests: **Computer Vision, XAI, NLP, and Agentic AI**
 - 🏆 Actively compete in ML/data science competitions on Kaggle and university-hosted hackathons
-- 📫 Reach me at **salehahmedshafin7@gmail.com**
+- 📫 Reach me at **salehshafin.ahmed@gmail.com**
 - ⚡ Fun fact: I enjoy competitive programming as much as competitive machine learning
 
 ---
@@ -82,7 +82,7 @@ from chest X-ray images.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SalehAhmedShafin&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=&hide_border=true" />
 </p>
 
 ---
