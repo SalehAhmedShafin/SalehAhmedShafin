@@ -7,7 +7,7 @@
   <a href="https://kaggle.com/positivesas"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/Sa_Shafin"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" /></a>
   <a href="https://leetcode.com/sa_shafin"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
-  <a href="mailto:salehahmedshafin7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:salehshafin.ahmed@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -77,12 +77,12 @@ from chest X-ray images.
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SalehAhmedShafin&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalehAhmedShafin&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=SalehAhmedShafin&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SalehAhmedShafin&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalehAhmedShafin&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=SalehAhmedShafin&hide_border=true" />
 </p>
 
 ---
